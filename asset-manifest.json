@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://glace23.github.io/csb-bvdird/static/css/main.ea65f702.chunk.css",
+    "main.js": "https://glace23.github.io/csb-bvdird/static/js/main.4d1d320a.chunk.js",
+    "main.js.map": "https://glace23.github.io/csb-bvdird/static/js/main.4d1d320a.chunk.js.map",
+    "runtime-main.js": "https://glace23.github.io/csb-bvdird/static/js/runtime-main.d31e3b5c.js",
+    "runtime-main.js.map": "https://glace23.github.io/csb-bvdird/static/js/runtime-main.d31e3b5c.js.map",
+    "static/css/2.c2edc5f9.chunk.css": "https://glace23.github.io/csb-bvdird/static/css/2.c2edc5f9.chunk.css",
+    "static/js/2.ae46a449.chunk.js": "https://glace23.github.io/csb-bvdird/static/js/2.ae46a449.chunk.js",
+    "static/js/2.ae46a449.chunk.js.map": "https://glace23.github.io/csb-bvdird/static/js/2.ae46a449.chunk.js.map",
+    "index.html": "https://glace23.github.io/csb-bvdird/index.html",
+    "static/css/2.c2edc5f9.chunk.css.map": "https://glace23.github.io/csb-bvdird/static/css/2.c2edc5f9.chunk.css.map",
+    "static/css/main.ea65f702.chunk.css.map": "https://glace23.github.io/csb-bvdird/static/css/main.ea65f702.chunk.css.map",
+    "static/js/2.ae46a449.chunk.js.LICENSE.txt": "https://glace23.github.io/csb-bvdird/static/js/2.ae46a449.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d31e3b5c.js",
+    "static/css/2.c2edc5f9.chunk.css",
+    "static/js/2.ae46a449.chunk.js",
+    "static/css/main.ea65f702.chunk.css",
+    "static/js/main.4d1d320a.chunk.js"
+  ]
+}
